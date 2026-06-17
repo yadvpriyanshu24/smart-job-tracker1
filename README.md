@@ -1,6 +1,6 @@
 # 🚀 Smart Job Tracker (AI Powered)
 
-An AI-powered MERN stack job tracking platform that helps users manage job applications, track interview progress, upload resumes, and analyze resumes using AI.
+A MERN stack job tracking platform that helps users manage job applications, track interview progress, upload resumes, and analyze resumes .
 
 ## 🌐 Live Demo
 
@@ -18,7 +18,7 @@ https://smart-job-tracker1.onrender.com
 * 📊 Track Application Status
 * 👤 User Profile Management
 * 📄 Resume Upload Feature
-* 🤖 AI Resume Analysis
+* 🤖 Resume Analysis
 * 📱 Responsive UI
 * ☁️ Full MERN Deployment (Vercel + Render)
 
@@ -46,9 +46,7 @@ https://smart-job-tracker1.onrender.com
 * Render (Backend)
 * MongoDB Atlas (Database)
 
-## 📷 Project Screenshots
 
-*Add screenshots here*
 
 ## ⚙️ Installation & Setup
 
